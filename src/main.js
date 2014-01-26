@@ -1,0 +1,3 @@
+require([
+	"jsx!bootstrap"
+]);

@@ -1,0 +1,16 @@
+{
+  "name": "backbone-react",
+  "version": "0.1.0",
+  "dependencies": {
+    "almond": "0.2.9",
+    "requirejs": "2.1.10",
+    "requirejs-text": "2.0.10",
+    "jsx-requirejs-plugin": "git://github.com/philix/jsx-requirejs-plugin#af8998a6b46ae38471df424e2b7bb3fbe9723c35",
+    "html5shiv": "3.7.0",
+    "es5-shim": "2.3.0",
+    "react": "0.8.0",
+    "backbone": "1.1",
+    "underscore": "1.5.2",
+    "react.backbone": "0.1.0"
+  }
+}

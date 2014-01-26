@@ -1,0 +1,12 @@
+{
+  "name": "backbone-react",
+  "description": "",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "0.4.2",
+    "grunt-contrib-jshint": "0.8.0",
+    "grunt-jsvalidate": "0.2.2",
+    "grunt-contrib-requirejs": "0.4.1",
+    "grunt-dom-munger": "3.1.0"
+  }
+}
