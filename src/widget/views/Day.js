@@ -17,7 +17,7 @@ define(["react.backbone"], function(React) {
 				return (
 					<div key={day}>
 						<label htmlFor={id}>{day}</label>
-						<input type="radio" id={id} name="day" value={day} checked={selected} onClick={this.updateDay.bind(null, day)}/>
+						<input type="radio" id={id} name="day" value={day} checked={selected} onChange={this.updateDay.bind(null, day)}/>
 						<br/>
 					</div>
 				);

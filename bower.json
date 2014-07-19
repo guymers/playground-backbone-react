@@ -3,14 +3,15 @@
   "version": "0.1.0",
   "dependencies": {
     "almond": "0.2.9",
-    "requirejs": "2.1.10",
-    "requirejs-text": "2.0.10",
-    "jsx-requirejs-plugin": "git://github.com/philix/jsx-requirejs-plugin#af8998a6b46ae38471df424e2b7bb3fbe9723c35",
-    "html5shiv": "3.7.0",
-    "es5-shim": "2.3.0",
-    "react": "0.8.0",
-    "backbone": "1.1",
-    "underscore": "1.5.2",
-    "react.backbone": "0.1.0"
+    "requirejs": "2.1.14",
+    "requirejs-text": "2.0.12",
+    "jsx-requirejs-plugin": "git://github.com/guymers/jsx-requirejs-plugin#d606d3843de65d7bf60805a9b49c3a7fc301cef3",
+    "html5shiv": "3.7.2",
+    "es5-shim": "4.0.0",
+    "react": "0.11.0",
+    "jquery": "1.11.1",
+    "backbone": "1.1.2",
+    "underscore": "1.6.0",
+    "react.backbone": "0.4.1"
   }
 }

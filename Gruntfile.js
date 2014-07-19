@@ -45,6 +45,10 @@ module.exports = function(grunt) {
 					include: "main",
 					exclude: ["jsx", "JSXTransformer"],
 					out: "build/main.js",
+					paths: {
+						// use jsx customer JSXTransformer for building
+						JSXTransformer: "../bower_components/jsx-requirejs-plugin/js/JSXTransformer",
+					},
 					onBuildRead: function(moduleName, path, contents) {
 						if (moduleName === "JSXTransformer") {
 							// prevent r.js from removing 'use strict' checks
